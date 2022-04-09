@@ -1,2 +1,2 @@
 # GameProHost
-This is the official github by Gàmeprohost
+This is the official github by GameProHost
